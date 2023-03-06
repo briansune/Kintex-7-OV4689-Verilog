@@ -10,7 +10,9 @@ This is a modified revision of OV13850 MIPI CSI-2 Camera Demonstration from <a h
 
 # Hardware Setup - OV4689
 
-https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM400/zh
+https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM400
+
+## This camera module do not include VCM, manual focus is needed.
 
 # Demo
 
