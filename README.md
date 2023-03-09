@@ -16,7 +16,9 @@ https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM400
 
 # Demo
 
-![image](https://user-images.githubusercontent.com/29487339/223663093-7cfecc2f-1c44-43e2-be96-39fc3f4d9d3b.png)
+<img src="https://user-images.githubusercontent.com/29487339/223908008-35b8663b-1afd-44ac-af36-aab603de4428.png" style="height:45%; width:45%"> <img src="https://user-images.githubusercontent.com/29487339/223908133-08d0b912-b301-491e-ba87-ebcd66d8c2ef.png" style="height:45%; width:45%">
+
+
 
 # Vivado Blocks
 
