@@ -7,18 +7,17 @@ This is a modified revision of OV13850 MIPI CSI-2 Camera Demonstration from <a h
 
 <img src="https://user-images.githubusercontent.com/29487339/204751996-902270a7-61d3-4f8a-b939-0c7ecb49a5ae.JPG" style="height:35%; width:35%">
 
-
-# Hardware Setup - OV4689
-
-https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM400
-
 ## This camera module do not include VCM, manual focus is needed.
 
 # Demo
 
 <img src="https://user-images.githubusercontent.com/29487339/224238238-fa764695-9c5d-466a-8532-6c4fba263985.png" style="height:45%; width:45%"> <img src="https://user-images.githubusercontent.com/29487339/224238273-3e906e55-3411-4f75-8a34-5299e58ec68b.png" style="height:45%; width:45%">
 
+# Hardware Setup - OV4689
 
+https://wiki.friendlyelec.com/wiki/index.php/Matrix_-_MCAM400
+
+![image](https://user-images.githubusercontent.com/29487339/224238469-39f9d6c8-28b3-48a9-9b66-d3829808a8eb.png)
 
 # Vivado Blocks
 
