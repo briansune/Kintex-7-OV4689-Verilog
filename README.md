@@ -1,6 +1,6 @@
 # kintex7-ov4689-fpga-mipi-camera
 
-This is a modified revision of OV13850 MIPI CSI-2 Camera Demonstration from <a href="https://github.com/gatecat/CSI2Rx.git" target="_blank">Original Post</a>.
+This is a modified MIPI CSI-2 Camera example from <a href="https://github.com/gatecat/CSI2Rx.git" target="_blank">Original Post</a>.
 
 ## If this project is constructive, welcome to donate a drink to PayPal.
 
